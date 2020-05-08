@@ -1,0 +1,13 @@
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\bin\Debug\netcoreapp3.1\ControlFlowExercises1.exe
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\bin\Debug\netcoreapp3.1\ControlFlowExercises1.deps.json
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\bin\Debug\netcoreapp3.1\ControlFlowExercises1.runtimeconfig.json
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\bin\Debug\netcoreapp3.1\ControlFlowExercises1.runtimeconfig.dev.json
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\bin\Debug\netcoreapp3.1\ControlFlowExercises1.dll
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\bin\Debug\netcoreapp3.1\ControlFlowExercises1.pdb
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\obj\Debug\netcoreapp3.1\ControlFlowExercises1.csprojAssemblyReference.cache
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\obj\Debug\netcoreapp3.1\ControlFlowExercises1.csproj.CoreCompileInputs.cache
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\obj\Debug\netcoreapp3.1\ControlFlowExercises1.AssemblyInfoInputs.cache
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\obj\Debug\netcoreapp3.1\ControlFlowExercises1.AssemblyInfo.cs
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\obj\Debug\netcoreapp3.1\ControlFlowExercises1.dll
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\obj\Debug\netcoreapp3.1\ControlFlowExercises1.pdb
+C:\Users\karle\udemy-courses\c#-beginner\ControlFlowExercises1\obj\Debug\netcoreapp3.1\ControlFlowExercises1.genruntimeconfig.cache
